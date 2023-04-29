@@ -1,0 +1,6 @@
+LIBRARY PcocessusRedirige
+EXPORTS
+	CreerProcessusEnfant
+	EcrireVersPipe
+	LireDepuisPipe
+	AfficherErreur
